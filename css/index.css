@@ -24,7 +24,7 @@ section{
     flex-flow: row;
 }
 #Contato{
-    background-image: url("../images/study.jpg");
+    background-image: url("../images/contact.jpg");
     background-position:center;
     background-attachment: scroll;
     flex-flow: column;
