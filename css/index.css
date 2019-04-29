@@ -67,9 +67,9 @@ a{
 #Experiencia p{
     padding-left: 20px;
 }
-.captcha{
-    margin: 0 auto;
-    display: block
+.g-recaptcha {
+    width: 302px;
+    margin: auto;
 }
 @media screen and (min-width: 768px) {
     .options{
